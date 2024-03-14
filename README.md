@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ravikantchauhan246@gmail.com**
 
-<img src="">
+<img src="gipfy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ravikant-chauhan-787abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravikant-chauhan-787abc" height="30" width="40" /></a>
