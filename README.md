@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ravikant Chauhan</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
+<img align="center" src="giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikantchauhan246&label=Profile%20views&color=0e75b6&style=flat" alt="ravikantchauhan246" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikantchauhan246" alt="ravikantchauhan246" /></a> </p>
 
 - 📫 How to reach me **ravikantchauhan246@gmail.com**
 
-<img align="right" src="giphy.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ravikant-chauhan-787abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravikant-chauhan-787abc" height="30" width="40" /></a>
