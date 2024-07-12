@@ -81,9 +81,12 @@
 
 ###
 
-<div style="text-align: center;">
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
+
+
+<p width="100%" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
 
 
 
